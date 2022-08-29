@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esti</h1>
 
 - 🔭 I’m currently working on the new reports website of [The Capsule](https://capsuleai.co.il/)
+
 - 🌱 I’m currently learning **React**
+
 - 💬 Ask me about **Java, JavaScript, React**
+
 - 🥅 2022 Goals: Contribute more to open source projects
 
 <h3 align="center">Connect with me</h3>
