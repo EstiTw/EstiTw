@@ -28,9 +28,9 @@
 
 <br></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estitw&show_icons=true&locale=en&layout=compact" alt="estitw" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=estitw&show_icons=true&locale=en&layout=compact" alt="estitw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estitw&show_icons=true&locale=en" alt="estitw" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=estitw&show_icons=true&locale=en" alt="estitw" /></p>
 
 <!--
 **EstiTw/EstiTw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
