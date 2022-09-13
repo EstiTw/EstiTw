@@ -3,7 +3,8 @@
 
 ## I'm a Developer, Teacher and Eternity Learner!!
 
-- 🔭 I’m currently working on the new reports website of [The Capsule](https://capsuleai.co.il/)
+
+- 🔭 I’m currently working on a new encrypted system of [The Capsule](https://capsuleai.co.il/) for detecting serial attackers
 
 - 🌱 I’m currently learning **React**
 
