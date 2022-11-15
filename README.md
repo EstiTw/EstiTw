@@ -4,11 +4,11 @@
 ## I'm a Developer, Teacher and Eternity Learner!!
 
 
-- 🔭 I’m currently working on a new encrypted system of [The Capsule](https://capsuleai.co.il/) for detecting serial attackers
+- 🔭 I’m currently working on the new encrypted system of [The Capsule](https://capsuleai.co.il/) for detecting serial attackers
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, JavaScript, React**
+- 💬 Ask me about **JavaScript & React**
 
 - 🥅 2022 Goals: Contribute more to open source projects
 
