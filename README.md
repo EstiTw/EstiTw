@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on the new encrypted system of [The Capsule](https://capsuleai.co.il/) for detecting serial attackers
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **JavaScript & React**
 
-- 🥅 2022 Goals: Contribute more to open source projects
+- 🥅 2023 Goals: Contribute more to open source projects
 
 - 📫 Feel free to contact me: **estitwitowork@gmail.com**
 
