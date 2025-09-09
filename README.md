@@ -20,6 +20,10 @@
 
 <a href="https://linkedin.com/in/esti-twito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esti-twito" height="30" width="40" /></a>
 
+
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=merko)
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,8 +49,4 @@
 <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/> </a>
 <a href="https://playwright.dev/" target="_blank"> <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/> </a>
 </p>
-
-
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=radical)
 
