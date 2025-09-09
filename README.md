@@ -21,8 +21,9 @@
 <a href="https://linkedin.com/in/esti-twito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esti-twito" height="30" width="40" /></a>
 
 
+
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=prussian)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
