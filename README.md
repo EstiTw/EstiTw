@@ -22,7 +22,7 @@
 
 
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiTw&layout=compact&theme=tokyonight)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
